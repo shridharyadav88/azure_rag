@@ -1,0 +1,3 @@
+AZURE_STORAGE_CONNECTION_STRING=f"BlobEndpoint=https://storagedemo2.blob.core.windows.net/container-aspx?sp=racwdl&st=2024-02-19T13:24:22Z&se=2024-03-22T21:24:22Z&sv=2022-11-02&sr=c&sig=iogpKlT4e%2FKX%2BsHSJ1VMNtNkk8fCctxcib5bHDYrXP0%3D"
+AZURE_STORAGE_CONTAINER_NAME="container-aspx"
+AZURE_STORAGE_SAS_TOKEN="sp=racwdl&st=2024-02-19T13:24:22Z&se=2024-03-22T21:24:22Z&sv=2022-11-02&sr=c&sig=iogpKlT4e%2FKX%2BsHSJ1VMNtNkk8fCctxcib5bHDYrXP0%3D"
